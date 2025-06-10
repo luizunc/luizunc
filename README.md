@@ -30,3 +30,9 @@
 <code><img height="32" src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/></code>
 <code><img height="32" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></code>
 <code><img height="32" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></code>
+
+---
+
+[![luizunc](https://github-readme-stats.vercel.app/api?username=luizunc&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![luizunc](https://github-readme-stats.vercel.app/api/top-langs/?username=luizunc&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
