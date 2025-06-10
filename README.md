@@ -33,4 +33,4 @@
 
 ---
 
-[![luizunc](https://github-readme-stats.vercel.app/api?username=luizunc&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![luizunc](https://github-readme-stats.vercel.app/api/top-langs/?username=luizunc&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![luizunc](https://github-readme-stats.vercel.app/api?username=luizunc&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![luizunc](https://github-readme-stats.vercel.app/api/top-langs/?username=luizunc&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
