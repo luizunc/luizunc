@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    src="https://profile-counter.glitch.me/luizunc/count.svg"
     alt="Número de visitantes no perfil"
   />
 </p>
