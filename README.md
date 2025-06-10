@@ -11,7 +11,7 @@
 
 ---
 
-## Linguagens
+## Back-End
 
 <code><img height="32" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/></code>
 <code><img height="32" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/></code>
