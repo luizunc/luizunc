@@ -5,6 +5,6 @@
 <p align="center">
   <img
     src="https://profile-counter.glitch.me/luizunc/count.svg"
-    alt="Número de visitantes no perfil"
+    alt="Visitas"
   />
 </p>
