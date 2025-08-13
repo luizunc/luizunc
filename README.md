@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://hits.sh/github.com/luizunc.svg"
+    src="https://hits.sh/github.com/luizunc.svg?style=for-the-badge&label=N%C2%BA&color=00a2ff&labelColor=00a2ff"
     alt="Visitas"
   />
 </p>
