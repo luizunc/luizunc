@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/luizunc/count.svg"
+    src="https://hits.sh/github.com/luizunc.svg"
     alt="Visitas"
   />
 </p>
