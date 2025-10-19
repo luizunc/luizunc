@@ -4,13 +4,13 @@
     Um desenvolvedor Back-End na <a href="https://estudiosunc.netlify.app">EstúdiosUNC</a>.  
 </h3>
 <p align="center">
-<img alt="back-end img" src="https://preview.redd.it/1pd8s12l4md01.jpg?width=640&crop=smart&auto=webp&s=8c1fdaad5378f1de46971987912950f0c8dc9be8" width="90%" />
+<img alt="back-end img" src="https://preview.redd.it/1pd8s12l4md01.jpg?width=640&crop=smart&auto=webp&s=8c1fdaad5378f1de46971987912950f0c8dc9be8" width="30%" />
 </p>
 <br/>
 <h2 align="center">
     Em meus códigos gosto de proporcionar:
 </h2>
-<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
+<img align="right" alt="coding gif" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd0eWY2ZTVmYXJ6aXBtbjFhaG02cGZtdGFud3VtaG42eXJ5MmZuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="200" />
 
 - **Automações**
 - **Servições em Back-End**
@@ -63,7 +63,7 @@
  <a href="mailto:eduarluiz21@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="email"></a> &nbsp; &nbsp;
  <a href="https://github.com/luizunc"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="github"></a> &nbsp; &nbsp;
  <a href="https://www.linkedin.com/in/lluizeduardo"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
- <a href="https://eduzp.site"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
+ <a href="https://eduzp.site"><img src="https://ibb.co/4gTNPfpV" width="30px" alt="site"></a> &nbsp; &nbsp;
 </p>
 
 <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
