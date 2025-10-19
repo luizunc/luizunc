@@ -10,7 +10,7 @@
 <h2 align="center">
     Em meus códigos gosto de proporcionar:
 </h2>
-<img align="right" alt="coding gif" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd0eWY2ZTVmYXJ6aXBtbjFhaG02cGZtdGFud3VtaG42eXJ5MmZuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="200" />
+<img align="right" alt="coding gif" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd0eWY2ZTVmYXJ6aXBtbjFhaG02cGZtdGFud3VtaG42eXJ5MmZuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="100" />
 
 - **Automações**
 - **Servições em Back-End**
@@ -21,7 +21,7 @@
 <br/>
 
 <h2 align="center">
-  Tecnologias que utilizo:
+    Tecnologias que utilizo:
 </h2>
 <p align="center">
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML"/></code> &nbsp;&nbsp;
@@ -63,7 +63,7 @@
  <a href="mailto:eduarluiz21@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="email"></a> &nbsp; &nbsp;
  <a href="https://github.com/luizunc"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="github"></a> &nbsp; &nbsp;
  <a href="https://www.linkedin.com/in/lluizeduardo"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
- <a href="https://eduzp.site"><img src="https://ibb.co/4gTNPfpV" width="30px" alt="site"></a> &nbsp; &nbsp;
+ <a href="https://eduzp.site"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/raw/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
 </p>
 
 <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
