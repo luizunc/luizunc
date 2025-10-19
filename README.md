@@ -4,7 +4,7 @@
     Um desenvolvedor Back-End na <a href="https://estudiosunc.netlify.app">EstúdiosUNC</a>.  
 </h3>
 <p align="center">
-<img alt="Commutatus gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/commutatus.gif" width="90%" />
+<img alt="Commutatus gif" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FProgrammerHumor%2Fcomments%2F7uj4ij%2Fbackend_developer%2F&psig=AOvVaw07F18NwF1G3UaPTbG7JW0z&ust=1760926756517000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOi44cOZr5ADFQAAAAAdAAAAABAU" width="90%" />
 </p>
 <br/>
 <h2 align="center">
