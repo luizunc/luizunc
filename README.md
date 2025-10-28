@@ -1,6 +1,6 @@
 <h1 align="center"> Olá 👋🏽, eu sou o Luiz </h1>
 
-<h3 align="center">
+<h3 align="justify">
     Desenvolvedor Back-End, Possuo 19 anos, sou graduando em Engenheria de Software pela Universidade Católica de Brasília e estou atualmente no 4º Semestre.
 </h3>
 <br/>
