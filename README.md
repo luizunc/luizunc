@@ -3,9 +3,6 @@
 <h3 align="center">
     Desenvolvedor Back-End  
 </h3>
-<p align="center">
-<img alt="back-end img" src="https://preview.redd.it/1pd8s12l4md01.jpg?width=640&crop=smart&auto=webp&s=8c1fdaad5378f1de46971987912950f0c8dc9be8" width="50%" />
-</p>
 <br/>
 <h2 align="center">
     Em meus códigos gosto de proporcionar:
