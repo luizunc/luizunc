@@ -1,7 +1,7 @@
 <h1 align="center"> Olá 👋🏽, eu sou o Luiz </h1>
 
 <h3 align="justify">
-    Desenvolvedor Back-End. Tenho 19 anos e sou graduando em Engenharia de Software pela Universidade Católica de Brasília, atualmente no 4º semestre. Meu principal objetivo é ser uma ponte entre a tecnologia e o usuário final, desenvolvendo sistemas que facilitem e otimizem processos do dia a dia.
+    Desenvolvedor Back-End. Tenho 19 anos e sou graduando em Engenharia de Software pela Universidade Católica de Brasília, atualmente no 5º semestre. Meu principal objetivo é ser uma ponte entre a tecnologia e o usuário final, desenvolvendo sistemas que facilitem e otimizem processos do dia a dia.
 </h3>
 <br/>
 <h2 align="center">
