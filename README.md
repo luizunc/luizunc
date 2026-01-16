@@ -30,11 +30,9 @@
 <br/>
 
 <p align="center">
-<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++"/></code> &nbsp;&nbsp;
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB"/></code> &nbsp;&nbsp;
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL"/></code> &nbsp;&nbsp;
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"/></code> &nbsp;&nbsp;
-<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx"/></code>
-</p>
 
 <br/>
 
