@@ -29,8 +29,8 @@
 
 <br/>
 
-<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS"/></code> &nbsp;&nbsp;
 <p align="center">
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS"/></code> &nbsp;&nbsp;
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB"/></code> &nbsp;&nbsp;
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL"/></code> &nbsp;&nbsp;
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"/></code> &nbsp;&nbsp;
