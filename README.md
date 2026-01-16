@@ -40,16 +40,6 @@
 <br/>
 
 <h2 align="center">
-    Minhas contribuições:
-</h2>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=luizunc&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Estatísticas públicas do Github de Luizunc">
-</p>  
-
-<br/>
-
-<h2 align="center">
   Entre em contato comigo. 
 </h2>
 <br/>
