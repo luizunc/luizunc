@@ -24,6 +24,7 @@
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML"/></code> &nbsp;&nbsp;
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS"/></code> &nbsp;&nbsp;
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/></code> &nbsp;&nbsp;
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript"/></code> &nbsp;&nbsp;
 
 </p>
 
