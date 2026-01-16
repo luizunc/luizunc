@@ -38,6 +38,7 @@
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/></code> &nbsp;&nbsp;
 
 <br/>
+<br/>
 
 <h2 align="center">
   Entre em contato comigo. 
